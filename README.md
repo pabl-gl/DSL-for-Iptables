@@ -1,6 +1,5 @@
 # Firewall DSL Syntax Reference
-## Team Members
-Pablo García López: pablo.glopez@udc.es
+
 ## Overview
 This firewall DSL (Domain Specific Language) allows you to write firewall rules in a natural, human-readable format that gets compiled into iptables commands.
 
